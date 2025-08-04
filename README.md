@@ -24,6 +24,7 @@ The data covers December 2006 to November 2010 with minute-level readings.
 
 The data originates from the UC Irvine Machine Learning Repository:  
 **Dataset**: "Individual household electric power consumption Data Set"
+
 https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 
 ## 💡 Key Visual Components
